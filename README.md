@@ -1,0 +1,2 @@
+# RISC-V-Processor-with-5-Stage-Pipelining-RTL-Design-and-Pipelining-Architecture
+This project implements a 64-bit RISC-V processor using Verilog with a 5-stage pipeline architecture (IF, ID, EX, MEM, WB). It features modular components like the ALU, control unit, instruction and data memory, with thorough testing, debugging support, and a scalable design for future enhancements and performance optimization.
